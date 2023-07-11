@@ -1,0 +1,9 @@
+8
+My 0 46 10 
+Mario 0 51 10 
+Wow 0 55 9 
+New 0 57 9 
+MARIO 1 14 10 
+ME 1 26 10 
+hihi 1 33 9 
+SEOA 2 20 9 
