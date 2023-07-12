@@ -8,6 +8,7 @@
 
 ## Explanation
 * This is a start screen of the game. If you press any keys, you can start the game.
+  
 ![Startscreeen_img](https://github.com/seoooa/vmp_final_20211511_KIMSEOA/assets/102460668/de1d1af5-5f0c-4673-8500-3e8925606607)
 
 #
