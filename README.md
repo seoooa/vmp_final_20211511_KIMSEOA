@@ -1,19 +1,10 @@
 # vmp_final_20211511_KIMSEOA
 
-
-
-
 ## Title: SUPER MARIO ESCAPE!
-### : It is a game in which two players cooperate to escape.
-
-
-
+### > : It is a game in which two players cooperate to escape.
 
 ## youtube link
 ### : [Play Video](https://youtu.be/I9N2z73KKHg)
-
-
-
 
 ## Explanation
 #### This is a start screen of the game. If you press any keys, you can start the game.
