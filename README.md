@@ -3,7 +3,7 @@
 ## Title: SUPER MARIO ESCAPE!
     : It is a game in which two players cooperate to escape.
 
-## youtube link
+## Youtube link
 #### : [Play Video](https://youtu.be/I9N2z73KKHg)
 
 ## Explanation
